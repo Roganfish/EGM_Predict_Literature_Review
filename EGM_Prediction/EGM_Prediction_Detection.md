@@ -30,7 +30,7 @@ Intracardiac electrograms stored in ICDs show reproducible morphology during ven
 
 
 
-# EGM waveform feature-based method to VT detection/prediction (minutes)
+# EGM waveform feature-based method to VT detection/prediction 
 
 ([Enabling Pre-Shock State Detection using Electrogram Signals from Implantable Cardioverter-Defibrillators](https://dl.acm.org/doi/abs/10.1145/3589335.3651450))(WWW '24: Companion Proceedings of the ACM Web Conference 2024)
 
@@ -54,7 +54,7 @@ The study shows that Far-field ICD electrogram QT integral measured during sinus
 **Methods:**<br>
 
 **Pros:**<br>
-
+months
 **Cons:**<br>
 
 
@@ -113,9 +113,10 @@ This study applied convolutional neural networks to far-field intracardiac elect
 
 
 **Pros:**<br>
+Deep learning
 
 **Cons:**<br>
-IEGM within 5 seconds before the VA onset. Machine learning
+IEGM within 5 seconds before the VA onset. 
 
 
 

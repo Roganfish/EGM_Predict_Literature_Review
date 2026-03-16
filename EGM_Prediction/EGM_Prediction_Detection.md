@@ -21,7 +21,7 @@ This study demonstrated that incorporating pre-event intracardiac electrograms (
 Intracardiac electrograms stored in ICDs show reproducible morphology during ventricular tachycardia episodes. Morphology similarity analysis can accurately identify clinical VT and assist in VT localization for ablation planning.<br>
 
 **Methods:**<br>
-<img src="./image/img1.png" alt="alt text" width="400"/>
+
 
 **Pros:**<br>
 

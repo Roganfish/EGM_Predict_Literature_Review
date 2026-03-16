@@ -32,10 +32,24 @@ Intracardiac electrograms stored in ICDs show reproducible morphology during ven
 
 # EGM waveform feature-based method to VT detection/prediction (minutes)
 
+([Enabling Pre-Shock State Detection using Electrogram Signals from Implantable Cardioverter-Defibrillators](https://dl.acm.org/doi/abs/10.1145/3589335.3651450))(WWW '24: Companion Proceedings of the ACM Web Conference 2024)
+
+**Main point:**<br>
+The study shows that intracardiac EGM signals recorded before a ventricular arrhythmia contain detectable patterns. By combining Siamese LSTM–based metric learning, prototype learning, and few-shot learning, the proposed model can distinguish normal signals from pre-shock signals and achieve strong performance (F1 ≈ 0.87).<br>
+
+**Methods:**<br>
+
+**Pros:**<br>
+
+**Cons:**<br>
+
+
+
+
 ([Intracardiac QT integral on far-field ICD electrogram predicts sustained ventricular tachyarrhythmias in ICD patients](https://www.heartrhythmjournal.com/article/S1547-5271(11)00849-6/abstract)) (HeartRhythm 2011)
 
 **Main point:**<br>
-Far-field ICD electrogram QT integral measured during sinus rhythm can predict future VT/VF events months in advance.<br>
+The study shows that Far-field ICD electrogram QT integral measured during sinus rhythm can predict future VT/VF events months in advance.<br>
 
 **Methods:**<br>
 
